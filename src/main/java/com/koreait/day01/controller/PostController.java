@@ -30,6 +30,6 @@ public class PostController {
     @DeleteMapping("/deleteMethod")
     public void delect(){
         System.out.println("deleteMethod 호출");
-        System.out.println("세번째 수정");
+        System.out.println("네번째 수정");
     }
 }
